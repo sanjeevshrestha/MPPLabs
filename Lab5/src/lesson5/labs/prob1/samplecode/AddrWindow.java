@@ -1,7 +1,8 @@
-/*
-* Name - Sanjeev Shrestha
-* ID -984970
-**/
+/**
+ * Name - Sanjeev Shrestha
+ * Student ID - 984970
+ * @author sanjeev
+ */
 package lesson5.labs.prob1.samplecode;
 
 import java.awt.BorderLayout;

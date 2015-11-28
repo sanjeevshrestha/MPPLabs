@@ -1,7 +1,7 @@
-/*
-* Name - Sanjeev Shrestha
-* ID -984970
-**/
+/**
+ * Name - Sanjeev Shrestha
+ * Student ID - 984970
+ */
 
 package lab5;
 
